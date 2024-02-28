@@ -1,0 +1,21 @@
+{
+  "name": "xiaoyu-color",
+  "displayName": "xiaoyu-color",
+  "description": "a color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "xiaoyu color",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xiaoyu color-color-theme.json"
+      }
+    ]
+  }
+}
